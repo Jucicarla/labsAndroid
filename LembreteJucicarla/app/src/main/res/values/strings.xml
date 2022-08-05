@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LembreteJucicarla</string>
+    <string name="lembretes">Lembretes</string>
+    <string name="usuario">Usuario</string>
+    <string name="entrar">Entrar</string>
+</resources>
